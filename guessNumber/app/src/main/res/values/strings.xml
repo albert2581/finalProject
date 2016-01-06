@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">guessNumber</string>
+    <string name="title_activity_establish">Establish</string>
+</resources>
